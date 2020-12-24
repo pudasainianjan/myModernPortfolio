@@ -375,9 +375,9 @@ main {
 .bt-sectionportfolio {
     padding: 5rem 0;
 }
-.bt-sectionportfolio .bt-portfolio {
+/* .bt-sectionportfolio .bt-portfolio {
     display: none;
-}
+} */
 .bt-portfoliolist {
     overflow: hidden;
 }
